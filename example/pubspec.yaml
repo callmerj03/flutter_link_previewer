@@ -33,7 +33,9 @@ dependencies:
   cupertino_icons: ^1.0.5
   flutter:
     sdk: flutter
-  flutter_chat_types: ^3.6.2
+  flutter_chat_types:
+    git:
+      url: https://github.com/callmerj03/flutter_chat_types.git
   flutter_link_previewer:
     path: ../
 
